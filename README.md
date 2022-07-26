@@ -14,6 +14,8 @@ Note that this file runs on TouchDesigner 2020 as later versions utilize an upda
 
 2. Run the personable_robotics_osc Rhino file along with the corresponding Grasshopper script
 
+The Rhino file can be found here as it is a large file: https://drive.google.com/file/d/1kBxjpjcbrFfDZ7HiuckwjWLcqWECq7OK/view?usp=sharing
+
 In the grasshopper file make sure that:
 - The inputs into the 'Firefly Receive UDP' match the OSC ports being sent from Touch Designer
 - The outputs from the 'Firefly Send UPD' match the OSC ports on the robot control software
